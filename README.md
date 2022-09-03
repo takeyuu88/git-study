@@ -1,1 +1,4 @@
- Gitの勉強
+git add
+git commit
+git push
+git tag
